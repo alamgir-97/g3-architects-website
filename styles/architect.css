@@ -3,3 +3,16 @@
     font-family: 'Work Sans', sans-serif;
 
 }
+
+/* Responsive media queries */
+/* (small) mobile devices */
+@media screen and (max-width: 576px) {
+
+    *{font-family: arial;};
+}
+
+/*  tablet or medium devices*/
+@media screen and (min-width: 576px) and (max-with: 992px){
+
+    *{font-family: 'Times New Roman';}
+}
